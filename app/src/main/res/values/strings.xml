@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Hispanidad</string>
+    <string name="Titulo">Hispanidad</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Opciones">Opciones</string>
+    <string name="Salir">Salir</string>
+    <string name="Acercade">Acerca de</string>
+    <string name="about">Aplicación desarrollada por Vladimir Iriarte para la asignatura de Programación multimedia 2020. Los países se han diseñado teniendo en cuenta los mapas de democracia/derechos LGTBI/religiosidad del mundo.</string>
+    <string name="version" translatable="false">v 1.0</string>
+    <string name="title_activity_opciones">Opciones</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+
+    <string name="title_activity_settings">Opciones</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Como">Cómo jugar</string>
+    <string name="seleccion">Selección de político</string>
+    <string name="acercaDe">Explicacion</string>
+    <string name="finalidad_Header">Finalidad</string>
+    <string name="finalidad">El juego consiste en esparcir la cultura española a otros países a través de visitas diplomáticas.</string>
+    <string name="partida_Header">Partida</string>
+    <string name="fondo">Fondo Patriótico</string>
+    <string name="apariencia">Apariencia</string>
+    <string name="modof">Duplicar la influencia</string>
+    <string name="jugabilidad">Jugabilidad</string>
+    <string name="juego">Juego</string>
+    <string name="dificultad">Dificultad</string>
+    <string name="seleccionPais">Selección de país</string>
+    <string name="visita_exito">Visita realizada con éxito</string>
+
+    <string name="resultVictoria">Visita favorable</string>
+    <string name="desde"> desde </string>
+    <string name="resultDerrota">Visita desfavorable</string>
+
+    <string name="gameoverVictoria">VICTORIA</string>
+
+    <string name="gameoverTablas">TABLAS</string>
+    <string name="gameoverTablasMensaje">A pesar de los esfuerzos diplomáticos, la cultura española no llegó a asimilarse del todo en el resto de países... sin embargo, España se ha convertido en un destino de vacaciones preferente, el resto de ciudadanos del mundo experimentan curiosidad y cierta familiaridad por su cultura.</string>
+
+    <string name="gameoverDerrota">DERROTA</string>
+    <string name="gameoverDerrotaMensaje">La mala imagen derivada de las visitas diplomáticas han generado desprecio por la cultura española hasta el punto de que los simbolos pátrios en el extranjero están siendo bandalizados e incluso destruidos. La crisis cultural amenaza hasta su propio territorio, en Valladolid ya solo se habla catalán.</string>
+    <string name="turno">Turno:</string>
+    <string name="volver">Volver</string>
+    <string name="gameoverVictoriaMensaje">Tras largos esfuerzos diplomáticos, la cultura española prevalece frente a las demás. Los brasileños comen paella los domingos, en Moscú se pelean por los caramelos de la cabalgata de reyes, los saudíes rezan a la virgen del Rocío y además duermen la siesta.  El planeta entero canta el Y viva España de Manolo Escobar.</string>
+    <string name="partida">"El jugador empieza eligiendo a un político y enviándolo al país que se quiere influenciar, como resultado de la afinidad de los valores compartidos de ese político con el país visitado, el índice de Hispanidad aumentará o bajará; cada político puede realizar varias visitas diplomáticas, pero los países solo reciben a uno de ellos.  La victoria se logra al conseguir 100 puntos de Hispanidad, si se llega a la visita diplomática número 15 teniendo más de 20 puntos, la partida acabará en tablas, el resto de escenarios posibles desembocan en derrota. "</string>
+
+</resources>

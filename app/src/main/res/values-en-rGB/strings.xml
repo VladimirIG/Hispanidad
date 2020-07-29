@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hispanity</string>
+    <string name="Acercade">About</string>
+    <string name="Como">How to play</string>
+    <string name="Guardar">Save</string>
+    <string name="Jugar">Play</string>
+    <string name="Opciones">Settings</string>
+    <string name="Salir">Exit</string>
+    <string name="about">Application developed by Vladimir Iriarte for the subject of Multimedia Programming 2020. Countries have been designed based on  maps of democracy / LGBTI rights / religiosity of the world.</string>
+    <string name="acercaDe">Explanation</string>
+    <string name="apariencia">Theme</string>
+    <string name="desde">" from "</string>
+    <string name="dificultad">Difficulty</string>
+    <string name="finalidad">The game consists in spreading Spanish culture to other countries through diplomatic visits.</string>
+    <string name="finalidad_Header">Purpose</string>
+    <string name="fondo">Patriotic Background</string>
+    <string name="gameoverDerrota">DEFEATED</string>
+    <string name="gameoverDerrotaMensaje">The bad picture derived from diplomatic visits has generated contempt for Spanish culture to the extent that the country symbols  in abroad are being bandalized and even destroyed. The cultural crisis threatens even its own territory, in Valladolid only Catalan is spoken.</string>
+    <string name="gameoverTablas">DRAW</string>
+    <string name="gameoverTablasMensaje">Despite diplomatic efforts, Spanish culture did not fully assimilated in the rest of the countries ... however, Spain has became a preferred holiday destination, citizens of the rest of the world experience curiosity and some familiarity with your culture.</string>
+    <string name="gameoverVictoria">VICTORY</string>
+    <string name="gameoverVictoriaMensaje">After long diplomatic efforts, Spanish culture prevails over others. The Brazilians eat paella on Sundays, the citizen of Moscow fight for the candies of the cavalcade of kings, the Saudis pray to the virgin of El Rocío and also they take naps. The entire planet sings Manolo Escobar\'s Y viva España.</string>
+    <string name="juego">Game</string>
+    <string name="jugabilidad">Game settings</string>
+    <string name="modof">Duplicate influence</string>
+    <string name="partida">The player begins by choosing a politician and sending him to the country he wants to influence, as a result of the affinity of the shared values ​​of that politician with the country visited, the Hispanity index will increase or decrease; Each politician can make several diplomatic visits, but countries only receive one of them. The victory is achieved by getting 100 points from Hispanidad, if you reach the diplomatic visit number 15 having more than 20 points, the game will end in draw, the other possible scenarios can lead to defeat.</string>
+    <string name="partida_Header">Game</string>
+    <string name="resultDerrota">Unfavorable visit</string>
+    <string name="resultVictoria">Favorable visit</string>
+    <string name="seleccion">Politician selection</string>
+    <string name="seleccionPais">Country selection</string>
+    <string name="title_activity_opciones">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="turno">Turn:</string>
+    <string name="volver">Go back</string>
+    <string name="visita_exito">Successful visit</string>
+    <string name="Titulo">Hispanity</string>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center" android:orientation="vertical"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    android:id="@+id/ly"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="0dp"
+        android:background="#AE777777"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+
+        android:text="@string/Titulo"
+        android:textColor="#F8F8F8"
+
+
+        android:textSize="50sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/aldrich" />
+
+    <Button
+        android:id="@+id/btn_Jugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="150dp"
+        android:background="#AAFF0000"
+        android:text="@string/Jugar"
+        app:fontFamily="@font/aldrich"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/btn_Opciones"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="24dp"
+        android:background="#AAFAE438"
+        android:text="@string/Opciones"
+        app:fontFamily="@font/aldrich">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn_Como"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="24dp"
+        android:background="#AAFAE438"
+        android:text="@string/Como"
+        app:fontFamily="@font/aldrich">
+
+    </Button>
+
+    <Button
+        android:id="@+id/btn_Salir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="24dp"
+        android:background="#AAFF0000"
+        android:text="@string/Salir"
+        app:fontFamily="@font/aldrich">
+
+    </Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/version"
+        android:layout_marginTop="20dp"
+        android:textColor="#F8F8F8"
+        ></TextView>
+</LinearLayout>
